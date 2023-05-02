@@ -38,7 +38,7 @@ img{
 
 a{
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 /* CSS */
@@ -49,7 +49,7 @@ a{
   line-height: 78px;
   font-size: 20px;
   font-family: 'Bebas Neue', sans-serif;
-  background: linear-gradient(45deg, transparent 5%, #FF013C 5%);
+  background: linear-gradient(45deg, transparent 5%, yellow 5%);
   border: 0;
   color: #fff;
   letter-spacing: 3px;
